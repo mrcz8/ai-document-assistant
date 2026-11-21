@@ -1,4 +1,4 @@
-# DocMind: Local AI Document Assistant
+# Local AI Document Assistant
 
 Chat with your documents using Retrieval-Augmented Generation (RAG). Everything runs locally: no OpenAI, no cloud, and your files never leave your machine.
 
