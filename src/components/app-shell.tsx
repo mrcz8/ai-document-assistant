@@ -67,8 +67,8 @@ export function AppShell() {
       <aside className="flex w-80 shrink-0 flex-col gap-8 border-r border-zinc-200 bg-zinc-50 p-5 dark:border-zinc-800 dark:bg-zinc-900/40">
         <div className="flex items-start justify-between gap-3">
           <div>
-            <p className="text-lg font-semibold tracking-tight">DocMind</p>
-            <p className="text-xs text-zinc-500">Local AI document assistant</p>
+            <p className="text-lg font-semibold tracking-tight">AI Document Assistant</p>
+            <p className="text-xs text-zinc-500">Runs locally with Ollama</p>
           </div>
           <ThemeToggle />
         </div>

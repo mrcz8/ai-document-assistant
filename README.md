@@ -2,7 +2,7 @@
 
 Chat with your documents using Retrieval-Augmented Generation (RAG). Everything runs locally: no OpenAI, no cloud, and your files never leave your machine.
 
-Upload PDFs, Word files, or text files, then ask questions. DocMind finds the relevant passages and answers with citations that point back to the source page.
+Upload PDFs, Word files, or text files, then ask questions. The assistant finds the relevant passages and answers with citations that point back to the source page.
 
 ---
 

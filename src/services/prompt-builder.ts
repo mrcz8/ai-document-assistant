@@ -3,7 +3,7 @@ import type { ChatTurn } from "@/domain/ports";
 
 export const NOT_FOUND_ANSWER = "I don't know. I couldn't find that in the documents in this collection.";
 
-const SYSTEM_PROMPT = `You are DocMind, an assistant that answers questions using only the provided document excerpts.
+const SYSTEM_PROMPT = `You are AI Document Assistant, an assistant that answers questions using only the provided document excerpts.
 
 Rules:
 - Use only facts stated in the excerpts. Never use outside knowledge.

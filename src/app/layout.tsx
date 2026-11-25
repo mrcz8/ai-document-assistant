@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "DocMind",
+  title: "AI Document Assistant",
   description: "Chat with your documents using a fully local RAG pipeline",
 };
 

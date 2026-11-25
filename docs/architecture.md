@@ -1,6 +1,6 @@
-# DocMind Architecture
+# AI Document Assistant Architecture
 
-Diagrams of how DocMind is put together and how data moves through it.
+Diagrams of how the AI Document Assistant is put together and how data moves through it.
 
 1. [System overview](#1-system-overview)
 2. [Ingest flow](#2-ingest-flow)
